@@ -1,0 +1,16 @@
+Testung der Website
+
+Test wurde von Dominik Huber ausgeführt. 
+
+Was gut ist: Öffnen und schließen der Modal funktionierte gut. 
+	     Klare Struktur im Aufbau der Website. 
+
+
+Was schlecht ist: Zu viel Text in den Absätzen auf der Startseite.  
+                  "Schließen" Button funtkioniert nicht. 
+		  Wenig Bilder. 
+
+
+Was noch zu ändern ist: Schließen über Button und Einfügen von Bildern. 
+			Weiters sind noch die Absätze zu kürzen. 
+			Zusätzliche Informationen können über dem Öffnen des Modals gelesen werden.  
